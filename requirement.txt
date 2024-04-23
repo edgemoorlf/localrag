@@ -1,5 +1,7 @@
 langchain==0.1.16
+langchainhub==0.1.15
 tiktoken==0.4.0
 chromadb==0.4.22
 chroma-hnswlib==0.7.3
 beautifulsoup4==4.12.2
+python-dotenv==1.0.0
